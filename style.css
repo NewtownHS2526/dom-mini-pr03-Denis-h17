@@ -63,8 +63,9 @@ button {
 }
 
 #winner {
-  background-color: gold;
-  font-size: 90px;
+  background-color: green;
+  color: white;
+  font-size: 80px;
   margin-top: 80px;
   padding: 10px;
   border-radius: 15px;
